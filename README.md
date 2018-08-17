@@ -2,7 +2,7 @@
 
 [![circle-ci](https://img.shields.io/circleci/project/github/aerogear/aerogear-android-sdk/master.svg)](https://circleci.com/gh/aerogear/aerogear-android-sdk)
 [![License](https://img.shields.io/badge/-Apache%202.0-blue.svg)](https://opensource.org/s/Apache-2.0)
-[![codecov](https://codecov.io/gh/Zavadzadlo/aerogear-android-sdk/branch/master/graph/badge.svg)](https://codecov.io/gh/Zavadzadlo/aerogear-android-sdk)
+[![codecov](https://img.shields.io/codecov/c/github/Zavadzadlo/aerogear-android-sdk/master.svg)](https://codecov.io/gh/Zavadzadlo/aerogear-android-sdk)
 
 
 
